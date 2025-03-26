@@ -10,8 +10,8 @@ const vazirmatn = Vazirmatn({
 })
 
 export const metadata: Metadata = {
-  title: "سازنده میم‌کوین",
-  description: "ساخت توکن‌های ERC20 در شبکه زنجیر",
+  title: "میم‌ساز!",
+  description: "ساخت میم‌کوین بر بستر زنجیر!",
     generator: 'v0.dev'
 }
 

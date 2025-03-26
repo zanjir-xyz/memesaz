@@ -21,6 +21,11 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
+  output: 'export',
+  trailingSlash: true,
+  reactStrictMode: true,
+  basePath: '/apps/apps/memesaz',
+  assetPrefix: '/apps/apps/memesaz/'
 }
 
 mergeConfig(nextConfig, userConfig)
