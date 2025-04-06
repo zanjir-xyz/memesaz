@@ -1,7 +1,7 @@
 import { ethers } from "ethers"
 
 // Token Factory Contract address
-const TOKEN_FACTORY_ADDRESS = "0xb592244aa6477eBDDc14475aaeF921cdDcC0170f"
+const TOKEN_FACTORY_ADDRESS = "0xDf3Cf8b9978c9c5639E06da3bfF5014ab5c055d1"
 
 // IRT Token address (quote token)
 const IRT_TOKEN_ADDRESS = "0x09E5DCF3872DD653c4CCA5378AbA77088457A8a9" // Actual IRT token address
